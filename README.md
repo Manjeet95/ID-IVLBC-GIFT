@@ -4,7 +4,7 @@ For finding IDs, our employed method has the following three steps:
 - Pairwise examination
 - Identification of IDs
 
-## The following is the description for finding IDs of IVLBC:
+## IVLBC:
 - RepresentativeSet_Algo.py: This is the source code of our introduced algorithm to find the representative set.
   
 - ddt.py: This is used for computing the partition table whose keys are the elements of the representative set. In this, we only consider first 16 elements from the representative set (after sorting the representative set) and find the corresponding partition table.
@@ -13,7 +13,7 @@ For finding IDs, our employed method has the following three steps:
   
 - IVLBC_IDs_MILP.py: Use the above potential pairs (from each part) in 'IVLBC_IDs_MILP.py' at the position 'non_feasible_diff'. Then, we execute the code and get the IDs within all 16 parts. Finally, adding all the IDs in all parts, we have total IDs.  
   
-## The details of identifying IDs for GIFT-64 as follows:
+## GIFT:
 - RepresentativeSet_Algo.py: This is source code of our introduced algorithm to find the representative set.
   
 - ddt.py: This is used for computing the partition table whose keys are the elements of the representative set. In this, we only consider first 14 elements from representative sets (after sorting representative sets) for input and output differences. Here, we find the corresponding partition tables.
