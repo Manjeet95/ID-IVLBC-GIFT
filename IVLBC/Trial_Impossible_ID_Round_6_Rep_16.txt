@@ -1,0 +1,168 @@
+ROUND = 6 and index = 0
+
+Potential ID key = 2490368
+
+Potential ID key = 18022400
+
+Potential ID key = 18481152
+
+Potential ID key = 4355
+
+Potential ID key = 19529728
+
+Potential ID key = 19791872
+
+Potential ID key = 20119552
+
+Potential ID key = 37355520
+
+Potential ID key = 45023232
+
+Potential ID key = 71565312
+
+Potential ID key = 269680640
+
+Potential ID key = 271187968
+
+Potential ID key = 271450112
+
+Potential ID key = 163208757248
+
+Potential ID key = 1181116006400
+
+Potential ID key = 1211180777472
+
+Potential ID key = 275
+
+Potential ID key = 4115
+
+Potential ID key = 282
+
+Potential ID key = 4123
+
+Potential ID key = 17789754540032
+
+Potential ID key = 17811229376512
+
+Potential ID key = 18704582574080
+
+Potential ID key = 1279900254208
+
+Potential ID key = 1297080123392
+
+Potential ID key = 1318554959872
+
+Potential ID key = 2448131358720
+
+Potential ID key = 2950642532352
+
+Potential ID key = 4690104287232
+
+Potential ID key = 17673790423040
+
+Potential ID key = 38
+
+Potential ID key = 17708150161408
+
+Potential ID key = 17772574670848
+
+Potential ID key = 298
+
+Potential ID key = 4138
+
+Potential ID key = 302
+
+Potential ID key = 687
+
+Potential ID key = 4142
+
+Potential ID key = 307
+
+Potential ID key = 4147
+
+Potential ID key = 570
+
+Potential ID key = 1092
+
+Potential ID key = 270204928
+
+Potential ID key = 271777792
+
+Potential ID key = 285409280
+non_feasible_diff = dict_keys([32808, 247506080366592, 141055315935232, 141038136066048, 32842, 32798, 32838, 32790, 141553532141568, 1099511627776, 140909287047168, 140827682668544, 140737488355328, 140857747439616, 140814797766656, 140849157505024, 70368744177664, 140866337374208, 57627, 140831977635840, 141231409594368, 32789, 32883, 32768, 32794, 32958, 32796, 256, 32786, 16384])
+number of non_feasible_diff = 96240
+ROUND = 6 and index = 1
+
+Potential ID key = 10696049115004928
+non_feasible_diff = dict_keys([16220558482904973312])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 2
+
+Potential ID key = 77405618595430400
+non_feasible_diff = dict_keys([9244201185131364352])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 3
+
+Potential ID key = 79375943432404992
+non_feasible_diff = dict_keys([9243075285224521728])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 4
+
+Potential ID key = 83879543059775488
+non_feasible_diff = dict_keys([9229283011365699584])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 5
+
+Potential ID key = 85005442966618112
+non_feasible_diff = dict_keys([9223372036854775808])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 6
+
+Potential ID key = 86412817850171392
+non_feasible_diff = dict_keys([9231253336202674176])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 7
+
+Potential ID key = 160440736725073920
+non_feasible_diff = dict_keys([9228438586435567616])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 8
+
+Potential ID key = 193373309000220672
+non_feasible_diff = dict_keys([9230690386249252864])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 9
+
+Potential ID key = 307370674568036352
+non_feasible_diff = dict_keys([4611686018427387904])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 10
+
+Potential ID key = 1158269529164349440
+non_feasible_diff = dict_keys([9231816286156095488])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 11
+
+Potential ID key = 1160521328978034688
+non_feasible_diff = dict_keys([9229564486342410240])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 12
+
+Potential ID key = 1164743453628694528
+non_feasible_diff = dict_keys([9255741659176501248])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 13
+
+Potential ID key = 1165869353535537152
+non_feasible_diff = dict_keys([9276852282429800448])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 14
+
+Potential ID key = 1167276728419090432
+non_feasible_diff = dict_keys([72057594037927936])
+number of non_feasible_diff = 3208
+ROUND = 6 and index = 15
+
+Potential ID key = 1225823523574906880
+non_feasible_diff = dict_keys([9234631035923202048])
+number of non_feasible_diff = 3208

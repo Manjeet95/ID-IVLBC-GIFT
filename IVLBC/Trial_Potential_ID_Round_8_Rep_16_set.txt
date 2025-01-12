@@ -1,0 +1,64 @@
+The potential IDs input-output difference pairs from 0 to 4096 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 4096 to 8192 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 8192 to 12288 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 12288 to 16384 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 16384 to 20480 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 20480 to 24576 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 24576 to 28672 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 28672 to 32768 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 32768 to 36864 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 36864 to 40960 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 40960 to 45056 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 45056 to 49152 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 49152 to 53248 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 53248 to 57344 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 57344 to 61440 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
+The potential IDs input-output difference pairs from 61440 to 65536 are:
+defaultdict(<class 'list'>, {})
+Total difference pairs that have potential to contain IDs = 0
+-------------------------------------------------------------------------------
