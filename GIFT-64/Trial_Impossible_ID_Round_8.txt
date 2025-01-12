@@ -1,0 +1,135 @@
+ROUND = 8 and index = 0
+
+Potential ID key = 131465216
+
+Potential ID key = 137953280
+
+Potential ID key = 184877056
+
+Potential ID key = 270860288
+
+Potential ID key = 806027264
+
+Potential ID key = 2821
+
+Potential ID key = 1674575872
+
+Potential ID key = 2004746240
+
+Potential ID key = 2044657664
+
+Potential ID key = 2088501248
+
+Potential ID key = 12299
+
+Potential ID key = 2107637760
+
+Potential ID key = 8615704395776
+
+Potential ID key = 9040906158080
+
+Potential ID key = 12116102742016
+
+Potential ID key = 148292335828992
+
+Potential ID key = 159098473545728
+
+Potential ID key = 17751099834368
+
+Potential ID key = 32160
+
+Potential ID key = 52823802773504
+
+Potential ID key = 109745004347392
+
+Potential ID key = 131383049584640
+
+Potential ID key = 4133
+
+Potential ID key = 133998684667904
+
+Potential ID key = 136872017788928
+
+Potential ID key = 138126148239360
+
+Potential ID key = 37043
+
+Potential ID key = 2105
+
+Potential ID key = 2262761472
+
+Potential ID key = 2427650048
+
+Potential ID key = 25552
+
+Potential ID key = 2006
+
+Potential ID key = 31199
+
+Potential ID key = 34527
+
+Potential ID key = 31868
+
+Potential ID key = 30590
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 1
+
+Potential ID key = 564638803281575936
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 2
+
+Potential ID key = 592504825975930880
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 3
+
+Potential ID key = 794040909300760576
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 4
+
+Potential ID key = 1163336078745141248
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 5
+
+Potential ID key = 3461860738564358144
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 7
+
+Potential ID key = 7192248604910682112
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 8
+
+Potential ID key = 8610319537578967040
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 9
+
+Potential ID key = 8781737798395756544
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 10
+
+Potential ID key = 8970044557815185408
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 11
+
+Potential ID key = 9052235251014696960
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 12
+
+Potential ID key = 9718486520888819712
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
+ROUND = 8 and index = 13
+
+Potential ID key = 10426677562292830208
+non_feasible_diff = defaultdict(<class 'list'>, {})
+number of non_feasible_diff = 0
